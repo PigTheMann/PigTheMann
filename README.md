@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PigTheMann
-- 👀 I’m interested in C#, Unity, and Web development
-- 🌱 I’m currently learning MVC, Media integrations, Web Skimming (for automation)
+- 👀 I’m interested in C#, Unity, Web development, Automation, Magic the Gathering, and Dungeons & Dragons!
+- 🌱 I’m currently learning C++, Media integrations, Web Skimming (for automation)
 - 💞️ I’m looking to collaborate on anything and everything, I am fairly fresh to all of this
 - 📫 How to reach me... well, good question...
 
